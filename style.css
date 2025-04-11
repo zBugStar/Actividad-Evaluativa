@@ -1,0 +1,40 @@
+body {
+    overflow: hidden;
+}
+
+.sidebar {
+    background-color: #f8f9fa;
+    height: 100%;
+    padding: 1rem;
+    border-right: 1px solid #dee2e6;
+}
+
+.email-list {
+    border-right: 1px solid #dee2e6;
+    overflow-y: auto;
+}
+
+.email-preview {
+    padding: 2rem;
+}
+
+.topbar {
+    background-color: #0b5829;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+
+.topbar .nav-link {
+    color: white;
+}
+
+.card{
+    background-color: #0b5829;
+}
+   
+.card:hover{
+    background: white !important;
+    color: black !important;
+   
+}
+
